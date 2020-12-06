@@ -1,12 +1,9 @@
-# bek-app.github.io
-- [Project № 1 (HTML5, CSS3)](https://bek-app.github.io/golden/)
-- [Project № 2 (HTML5, CSS3, Adaptive)](https://bek-app.github.io/const/)
-- [Project № 3 (HTML5, CSS3, Adaptive)](https://bek-app.github.io/creative/)
-- [Project № 4 (HTML5, CSS3, Bootstrap 4, Adaptive)](https://bek-app.github.io/abn/)
- | Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+
+ | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 
