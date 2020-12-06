@@ -3,9 +3,10 @@
 - [Project № 2 (HTML5, CSS3, Adaptive)](https://bek-app.github.io/const/)
 - [Project № 3 (HTML5, CSS3, Adaptive)](https://bek-app.github.io/creative/)
 - [Project № 4 (HTML5, CSS3, Bootstrap 4, Adaptive)](https://bek-app.github.io/abn/)
-- First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+ | Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 
