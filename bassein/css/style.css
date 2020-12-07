@@ -137,7 +137,7 @@ bottom: 10px;
 	src: url('../fonts/medium/Gilroy-Medium.eot');
 	src: url('../fonts/medium/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
 		 url('../fonts/medium/Gilroy-Medium.svg#Gilroy-Bold') format('svg'),
-
+}
 
 .header {
 	background: url(../img/header-bg.png) no-repeat center center/cover;
@@ -258,4 +258,51 @@ bottom: 10px;
 	margin-top: 50px;
 	font-family: 'Gilroy-Bold';
 	font-size: 16px;
+}
+
+.money{
+	background: url(../img/money-bg.png) no-repeat center center / cover;
+	width: 100%;
+   
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+ 
+	 
+
+
+}
+.money__title{
+	margin-top: 100px;
+	margin-bottom: 15px;
+	font-family: 'Gilroy-Bold';
+	text-transform: uppercase;
+
+}
+
+.money__text{text-align: center;
+	margin-bottom: 50px;
+	font-family: 'Gilroy-Medium';
+}
+.money__text-bold{
+	font-family: 'Gilroy-Bold';
+	color: #61809f;
+	
+
+}
+.money__block{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.money__block-form{
+ 
+}
+.money__block-img{
+	background: url(../img/money.png) no-repeat center center / cover;
+	width: 100%;
+	max-width: 886px;
+	height: 200px;
+	z-index: 99;
 }
