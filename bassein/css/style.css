@@ -131,8 +131,12 @@ bottom: 10px;
 	font-weight: normal;
 	font-style: normal;
   }
-  
 
+  @font-face {
+	font-family: 'Gilroy-Medium';
+	src: url('../fonts/medium/Gilroy-Medium.eot');
+	src: url('../fonts/medium/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/medium/Gilroy-Medium.svg#Gilroy-Bold') format('svg'),
 
 
 .header {
